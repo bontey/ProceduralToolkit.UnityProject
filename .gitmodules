@@ -1,0 +1,6 @@
+[submodule "Assets/ProceduralToolkit"]
+	path = Assets/ProceduralToolkit
+	url = https://github.com/Syomus/ProceduralToolkit
+[submodule "Assets/ProceduralToolkit.Tests"]
+	path = Assets/ProceduralToolkit.Tests
+	url = https://github.com/Syomus/ProceduralToolkit.Tests
